@@ -1,0 +1,4 @@
+import IISKursovayaRabotaKalyukhПроверкаКиоскаEController from '../i-i-s-kursovaya-rabota-kalyukh-проверка-киоска-e';
+
+var IISKursovayaRabotaKalyukhПроверкаКиоскаENewController = IISKursovayaRabotaKalyukhПроверкаКиоскаEController;
+export default IISKursovayaRabotaKalyukhПроверкаКиоскаENewController;

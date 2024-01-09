@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-kursovaya-rabota-kalyukh-оператор-e",
+  "editForm": "i-i-s-kursovaya-rabota-kalyukh-оператор-e",
+  "external": false,
+  "caption": "Оператор",
+  "name": "IISKursovayaRabotaKalyukhОператорL",
+  "className": "ОператорL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-kursovaya-rabota-kalyukh-оператор",
+      "modelProjection": "ОператорL"
+    }
+  ]
+}

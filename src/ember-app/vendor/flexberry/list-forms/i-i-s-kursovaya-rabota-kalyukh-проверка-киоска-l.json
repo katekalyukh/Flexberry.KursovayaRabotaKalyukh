@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-kursovaya-rabota-kalyukh-проверка-киоска-e",
+  "editForm": "i-i-s-kursovaya-rabota-kalyukh-проверка-киоска-e",
+  "external": false,
+  "caption": "Проверка киоска",
+  "name": "IISKursovayaRabotaKalyukhПроверкаКиоскаL",
+  "className": "ПроверкаКиоскаL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-kursovaya-rabota-kalyukh-проверка-киоска",
+      "modelProjection": "ПроверкаКиоскаL"
+    }
+  ]
+}

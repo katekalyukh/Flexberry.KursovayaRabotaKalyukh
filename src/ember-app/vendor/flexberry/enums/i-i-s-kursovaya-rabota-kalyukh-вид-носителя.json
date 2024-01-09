@@ -1,0 +1,8 @@
+﻿{
+  "nameSpace": "IIS.KursovayaRabotaKalyukh",
+  "className": "ВидНосителя",
+  "enumObjects": {
+    "Флешка": "Флешка",
+    "ФлешКарта": "Флеш карта"
+  }
+}

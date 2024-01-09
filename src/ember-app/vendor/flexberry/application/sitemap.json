@@ -1,0 +1,64 @@
+﻿{
+  "applicationCaption": "Kursovaya rabota kalyukh",
+  "applicationTitle": "Kursovaya rabota kalyukh",
+  "items": [
+    {
+      "link": null,
+      "menuName": "kursovaya-rabota-kalyukh",
+      "caption": "KursovayaRabotaKalyukh",
+      "title": "KursovayaRabotaKalyukh",
+      "children": [
+        {
+          "link": "i-i-s-kursovaya-rabota-kalyukh-оператор-l",
+          "menuName": null,
+          "caption": "Оператор",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-kursovaya-rabota-kalyukh-клиент-l",
+          "menuName": null,
+          "caption": "Клиент",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-kursovaya-rabota-kalyukh-чек-l",
+          "menuName": null,
+          "caption": "Чек",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-kursovaya-rabota-kalyukh-фотокиоск-l",
+          "menuName": null,
+          "caption": "Фотокиоск",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-kursovaya-rabota-kalyukh-проверка-киоска-l",
+          "menuName": null,
+          "caption": "Проверка киоска",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-kursovaya-rabota-kalyukh-заказ-l",
+          "menuName": null,
+          "caption": "Заказ",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-kursovaya-rabota-kalyukh-товары-l",
+          "menuName": null,
+          "caption": "Товары",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

@@ -1,0 +1,39 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Клиент",
+      "projection": "КлиентL",
+      "detailModelName": null
+    },
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Фотокиоск",
+      "projection": "ФотокиоскL",
+      "detailModelName": null
+    },
+    {
+      "master": "товары",
+      "displayAttributeName": "вид",
+      "required": true,
+      "relationName": "Фото.Товары",
+      "projection": "ТоварыL",
+      "detailModelName": "i-i-s-kursovaya-rabota-kalyukh-фото"
+    }
+  ],
+  "external": false,
+  "caption": "Заказ",
+  "name": "IISKursovayaRabotaKalyukhЗаказE",
+  "className": "ЗаказE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-kursovaya-rabota-kalyukh-заказ",
+      "modelProjection": "ЗаказE"
+    }
+  ]
+}

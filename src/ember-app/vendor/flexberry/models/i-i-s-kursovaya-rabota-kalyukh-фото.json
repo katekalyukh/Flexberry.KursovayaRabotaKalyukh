@@ -1,0 +1,77 @@
+﻿{
+  "name": "IISKursovayaRabotaKalyukhФото",
+  "modelName": "i-i-s-kursovaya-rabota-kalyukh-фото",
+  "className": "Фото",
+  "nameSpace": "IIS.KursovayaRabotaKalyukh",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [
+    {
+      "name": "количество",
+      "type": "number",
+      "flexberryType": "int",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [
+    {
+      "polymorphic": false,
+      "presence": true,
+      "name": "товары",
+      "relatedTo": "i-i-s-kursovaya-rabota-kalyukh-товары",
+      "inverse": null
+    },
+    {
+      "polymorphic": false,
+      "presence": true,
+      "name": "заказ",
+      "relatedTo": "i-i-s-kursovaya-rabota-kalyukh-заказ",
+      "inverse": "фото"
+    }
+  ],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "ФотоE",
+      "modelName": "i-i-s-kursovaya-rabota-kalyukh-фото",
+      "attrs": [
+        {
+          "name": "количество",
+          "caption": "Количество",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [
+        {
+          "lookupValue": "Вид",
+          "lookupValueField": "вид",
+          "relationName": "Товары",
+          "belongsTo": [],
+          "hidden": false,
+          "attrs": [
+            {
+              "name": "стоимость",
+              "caption": "Стоимость",
+              "hidden": false,
+              "index": 2
+            }
+          ],
+          "index": 1,
+          "type": "standard",
+          "caption": "Вид",
+          "name": "товары",
+          "relatedTo": "i-i-s-kursovaya-rabota-kalyukh-товары",
+          "inverse": null
+        }
+      ],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

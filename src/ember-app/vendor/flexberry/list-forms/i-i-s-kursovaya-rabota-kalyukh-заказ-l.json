@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-kursovaya-rabota-kalyukh-заказ-e",
+  "editForm": "i-i-s-kursovaya-rabota-kalyukh-заказ-e",
+  "external": false,
+  "caption": "Заказ",
+  "name": "IISKursovayaRabotaKalyukhЗаказL",
+  "className": "ЗаказL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-kursovaya-rabota-kalyukh-заказ",
+      "modelProjection": "ЗаказL"
+    }
+  ]
+}

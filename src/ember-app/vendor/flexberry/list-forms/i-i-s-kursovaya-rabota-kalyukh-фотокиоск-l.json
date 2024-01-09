@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-kursovaya-rabota-kalyukh-фотокиоск-e",
+  "editForm": "i-i-s-kursovaya-rabota-kalyukh-фотокиоск-e",
+  "external": false,
+  "caption": "Фотокиоск",
+  "name": "IISKursovayaRabotaKalyukhФотокиоскL",
+  "className": "ФотокиоскL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-kursovaya-rabota-kalyukh-фотокиоск",
+      "modelProjection": "ФотокиоскL"
+    }
+  ]
+}

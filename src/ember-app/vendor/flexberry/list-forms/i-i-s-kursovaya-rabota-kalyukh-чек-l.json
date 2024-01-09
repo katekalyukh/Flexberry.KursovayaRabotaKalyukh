@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-kursovaya-rabota-kalyukh-чек-e",
+  "editForm": "i-i-s-kursovaya-rabota-kalyukh-чек-e",
+  "external": false,
+  "caption": "Чек",
+  "name": "IISKursovayaRabotaKalyukhЧекL",
+  "className": "ЧекL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-kursovaya-rabota-kalyukh-чек",
+      "modelProjection": "ЧекL"
+    }
+  ]
+}
